@@ -1,0 +1,25 @@
+  function birthdayCountDown(){
+
+var day = 60;
+while (day >=0)
+{
+      if(day>30)
+      {
+        console.log(day + " days until my birthday. Such a long time... :(");
+      }
+      else if(day > 5)
+      {
+          console.log(day + " days until my birthday. Amost my Birthday!!");
+      }
+      else if(day >= 1)
+      {
+        console.log(day + " DAYS UNTIL MY BIRTHDAY!!!!");
+      }
+      else if(day==0)
+      {
+        console.log("HAPPY BIRTHDAY!!!!!!!");
+      }
+    day--;
+  }
+
+  console.log(birthdayCountDown());
