@@ -1,0 +1,37 @@
+{<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+
+
+<script type="text/javascript">
+     var num1 = 1;
+     var num2 = -9;
+     var num3 = 6;
+     var num4 = 0;
+     var string1 = 'yassine';
+     var string2 = 'GH';
+     var string3 = "white";
+     var boolean1 = true;
+     var boolean2 = false;
+     var undefined = tv1;
+     console.log("The first number is", num1);
+     console.log("The second number is", num2);
+     console.log("The third number is", num3);
+     console.log("The fourth number is", num4);
+     console.log("The first string is", string1);
+     console.log("The second string is", string2);
+     console.log("The third string is", string3);
+     console.log("The first boolean is", boolean1);
+     console.log("The second boolean is", boolean2);
+     console.log("The undefined variable is", undefined);
+   </script>
+
+   <body>
+
+  </body>
+
+
+</html>}
